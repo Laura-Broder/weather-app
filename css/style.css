@@ -36,12 +36,6 @@ h1 {
   border-bottom-right-radius: 20px;
   border-bottom-left-radius: 20px;
 }
-.contentContainer {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-}
 #status {
   padding: 1vh 0;
   background: rgb(134, 43, 61);
